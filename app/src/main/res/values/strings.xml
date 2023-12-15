@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Gemini API Quickstart</string>
+    <string name="gemini">Gemini</string>
+</resources>
